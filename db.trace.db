@@ -1,0 +1,4 @@
+2023-01-07 01:59:04 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "SELECT * FROM LIBRARY INFORMATION_SCHEMA[*].SESSIONS"
+Syntax error in SQL statement "SELECT * FROM LIBRARY INFORMATION_SCHEMA[*].SESSIONS"; SQL statement:
+SELECT * FROM LIBRARY INFORMATION_SCHEMA.SESSIONS [42000-214]
